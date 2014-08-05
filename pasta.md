@@ -8,6 +8,7 @@
 * Bay Leaf
 
 ## Steps
-
-
-## Finishing Touches
+* Cook ingredients
+* Cook pasta just short of al dente
+* Combine
+* Add creme, butter, cheese
